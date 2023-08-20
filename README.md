@@ -5,10 +5,12 @@ This README file is reserved for development.
 - [x] Add base UI styling (JSON)
 - [x] Fix current UI styling and substitute colors as compared (JSON)
 - [x] Add syntax coloring (XML)
-- [ ] Finish and extend UI styling to plugins such as Git (JSON)
+- [x] Finish and extend UI styling to plugins such as Git (JSON)
 - [x] Revise colors to make more fitting
-- [ ] Fix for all langs and other JetBrains features
-- [ ] Review with Shaunsingh and add final touches before pushing
+- [x] Fix for all langs and other JetBrains features
+- [ ] Review and add final touches before pushing
 
 ## Light Mode:
-Not started.
+- [x] Replace base colors in light mode for UI and syntax.
+- [ ] Check to see if UI colors in light mode are consistent, make adjustments as necessary.
+- [ ] Syntax adjustments for light mode are definitely expected, so make those as necessary as well.
